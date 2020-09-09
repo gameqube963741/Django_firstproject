@@ -12,3 +12,9 @@
 
 2. 靜態 static
 ![](./demo_images/ht4.png)
+
+3. locals() 傳送變數至 template 模板
+
+![](./demo_images/views_dice.png)
+
+![](./demo_images/ht_dice.png)

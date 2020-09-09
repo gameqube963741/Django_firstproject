@@ -19,3 +19,7 @@
 
 ![](./demo_images/ht_dice.png)
 ![](./demo_images/dice.png)
+
+4. 模擬從資料庫取出資料
+![](./demo_images/db1.png)
+![](./demo_images/ht_db.png)

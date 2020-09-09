@@ -28,9 +28,9 @@ def dice(request):
     return render(request,"dice.html",locals())   
 
 def show(request):
-    person1={"name":"Amy","phone":"049-1234567","age":20}
-    person2={"name":"Jack","phone":"02-4455666","age":25}
-    person3={"name":"Nacy","phone":"04-9876543","age":17}
+    person1={"name":"Edward","phone":"0977-177-998","age":29}
+    person2={"name":"Mike","phone":"02-25099933","age":21}
+    person3={"name":"Howhow","phone":"0911-886-885","age":31}
     persons=[person1,person2,person3]
     return render(request,"show.html",locals())
 

@@ -43,8 +43,8 @@ def djpost(request):
     if request.method == 'POST':
         username = request.POST['username']
         password = request.POST['password']
-        if username=='david' and password=='1234':
-            return HttpResponse('歡迎光臨本網站！')
+        if username=='admin' and password=='0000':
+            return HttpResponse('歡迎到此一遊！')
         else:
             return HttpResponse('帳號或密碼錯誤！')
     else:

@@ -23,3 +23,8 @@
 4. 模擬從資料庫取出資料
 ![](./demo_images/db1.png)
 ![](./demo_images/ht_db.png)
+
+5. 以 post 形式傳遞資料
+![](./demo_images/get_in.png)
+![](./demo_images/get_y.png)
+![](./demo_images/get_n.png)
